@@ -1,5 +1,5 @@
 # README.md
-#### This is a simple project to create a landing page for a programming portfolio
+#### This is a project on understanding calculator logics
 #### By Bramuel Amariati
 ## Description
 This is a simple project on understanding calculator logics
